@@ -14,6 +14,7 @@ ___
 + I won first place in the interscholastic spelling olympics.
 + I won some internal olympics in physics and mathematics.
 + I got a full scholarship for the Bolivian Catholic University.
++ Right now, I'm working on a app called enSeñaMe using python.
 ___
 ## 📈Hobbies
 
